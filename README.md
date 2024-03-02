@@ -16,6 +16,10 @@ LSTM: Notebook showcasing the exploration and implementation of a Long Short-Ter
 
 Initial: Notebook illustrating the first attempt.
 
+documentation: Contains the project proposal, final report
+
+presentation: Contains the final presentation slides
+
 ## Models and Techniques
 
 Logistic Regression: Served as our baseline model, offering insights into the dataset's behavior and initial classification performance.
