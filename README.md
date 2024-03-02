@@ -14,7 +14,7 @@ LogR: Notebook detailing the Logistic Regression model used as a baseline for se
 
 LSTM: Notebook showcasing the exploration and implementation of a Long Short-Term Memory (LSTM) model for sentiment analysis.
 
-First: Notebook illustrating the first attempt.
+Initial: Notebook illustrating the first attempt.
 
 ## Models and Techniques
 
